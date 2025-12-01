@@ -1,5 +1,5 @@
 -  Hi, I’m Robbie 
--  I’m interested in becoming a software engineer.
+-  I’m interested in learning about qaunt development 
 -  I’m currently learning python.
 -  I’m looking to collaborate on just about anything.
 -  How to reach me: duncanrobbie1998@gmail.com
