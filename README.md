@@ -1,7 +1,5 @@
 -  Hi, I’m Robbie 
 -  I’m interested in learning about qaunt development 
 -  I’m currently learning python.
--  I’m looking to collaborate on just about anything.
 -  How to reach me: duncanrobbie1998@gmail.com
--  Pronouns: he/him
 -  Fun fact: I am currently studying computing and IT with the open university.
